@@ -1,0 +1,2 @@
+# qcoin
+Quantify of coin.
